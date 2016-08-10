@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/Documents/Mypoolin/MyPoolin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/apple/Documents/Mypoolin/MyPoolin/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_73f81e51dca2ac9ea58c45c1cdc2a73bd5df6900.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/Mypoolin/MyPoolin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/apple/Documents/Mypoolin/MyPoolin/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_7bbb0a59049f22df82e89a7eeef0f1ef82384375.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/Mypoolin/MyPoolin/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/apple/Documents/Mypoolin/MyPoolin/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_543698d8059bc88d259f76cdddf1d60aaf7e25b4.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/apple/Documents/Mypoolin/MyPoolin/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_74ef02b1468eb5f278fa947e0162785a256b3488.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/Mypoolin/MyPoolin/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/apple/Documents/Mypoolin/MyPoolin/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_0b08cbf8a3ea90cbf8d57dd8829996103eded65b.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/Mypoolin/MyPoolin/app/build/intermediates/exploded-aar/me.relex/circleindicator/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4a6c347f01da9077fc9d7934974260d904354f77">
+        <dex dex="/Users/apple/Documents/Mypoolin/MyPoolin/app/build/intermediates/pre-dexed/debug/me.relex-circleindicator-1.2.1_55cdb418a7748d8166430dc2663e86e6a39e76c4.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Documents/Mypoolin/MyPoolin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/apple/Documents/Mypoolin/MyPoolin/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_d900fdf20afa7aca7e7dd96d1b30768a9f4892be.jar" />
+    </item>
+
+</items>
